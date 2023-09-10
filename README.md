@@ -1,8 +1,4 @@
-# React + Vite
+# Make-Card-by-React.
+## ***This it just practice and make some Card by React functional component and use props to send data parent to child component***
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Make Card by React](https://github.com/Chayon111/Make-Card-by-React./assets/101303939/63517b00-ae33-42a6-9fc8-649ae4bdb52a)
